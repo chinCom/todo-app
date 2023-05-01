@@ -1,0 +1,8 @@
+.inline-through {
+    text-decoration: line-through;
+    /* color: red; */
+}
+#check-box {
+    width: 30px;
+    height: 30px;
+}
